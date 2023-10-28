@@ -39,7 +39,7 @@ nothing yet
 
 
 # Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/XCatGT/your-repo.git
 
 # Change to the project directory
 cd your-repo
