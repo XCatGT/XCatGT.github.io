@@ -7,7 +7,7 @@ This site is updated whenever I get bored or end up staying up till 3 am.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributing](#Contributing)
 - [License](#license)
 - [Discord](#my_discord)
 
@@ -28,11 +28,16 @@ Why is this the best website?
 2: im smart
 3. im cool
 
+## Contributing
+
+how to help me with the code, fork this and add to the code i will be happy
+
 ## Installation
 
 nothing yet
 
 ```bash
+
 
 
 # Clone the repository
