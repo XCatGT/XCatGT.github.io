@@ -4,7 +4,6 @@ Brief description of your website.
 
 ## Table of Contents
 - [Overview](#overview)
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,23 +12,20 @@ Brief description of your website.
 
 ## Overview
 
-Provide a brief introduction and overview of your website. Explain its purpose and what it offers.
+subscribe if you are cool enugh. https://youtube.com/@XCatGT?si=0PcVaENsKtw5Y7V6
 
-## Demo
-
-Include links to a live demo or screenshots of your website, if available.
 
 ## Features
 
-List the key features of your website:
+Why is this the best website?
 
-- Feature 1
-- Feature 2
-- Feature 3
+1: i know how to code
+2: im smart
+3. im cool
 
 ## Installation
 
-Explain how to install and set up your website. Include any prerequisites or dependencies.
+nothing yet
 
 ```bash
 # Clone the repository
