@@ -22,9 +22,11 @@ Join now https://discord.gg/jy4R44nupf
 
 Why is this the best website?
 
-1: i know how to code
-2: im smart
-3. im cool
+- 1: i know how to code
+  
+- 2: im smart
+  
+- 3. im cool
 
 ## Contributing
 
