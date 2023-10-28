@@ -6,9 +6,7 @@ This site is updated whenever I get bored or end up staying up till 3 am.
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#Contributing)
-- [License](#license)
 - [Discord](#my_discord)
 
 ## Overview
