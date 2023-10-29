@@ -8,6 +8,17 @@ This site is updated whenever I get bored or end up staying up till 3 am.
 - [Installation](#installation)
 - [Contributing](#Contributing)
 - [Discord](#my_discord)
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="5;url=newpage.html">
+</head>
+<body>
+    <!-- Your content here -->
+</body>
+</html>
+
+
 
 ## Overview
 
