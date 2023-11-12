@@ -39,6 +39,8 @@ Why is this the best website?
   
 - 3. im cool
 
+## news
+
 ## Contributing
 
 how to help me with the code, fork this and add to the code i will be happy
